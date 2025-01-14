@@ -187,8 +187,8 @@
         "userId": 10
       }
     ],
-    
-    "likedPosts": [
+
+    "likedposts": [
         {
           "id": 1,
           "createdPostId": 1,
